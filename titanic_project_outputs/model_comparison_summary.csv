@@ -1,0 +1,7 @@
+run,fit_time,score_time,test_accuracy,test_precision,test_recall,test_f1,test_roc_auc,model_path
+A_LogisticRegression,0.006741189956665039,0.007224655151367188,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_A_LogisticRegression.joblib
+A_HistGB,0.027277374267578126,0.012967109680175781,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_A_HistGB.joblib
+B_LogisticRegression,0.004682016372680664,0.0066699028015136715,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_B_LogisticRegression.joblib
+B_HistGB,0.04899420738220215,0.019345808029174804,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_B_HistGB.joblib
+C_LogisticRegression,0.004238796234130859,0.006934833526611328,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_C_LogisticRegression.joblib
+C_HistGB,0.05382142066955566,0.017841577529907227,0.6161634548992531,0.0,0.0,0.0,0.5,titanic_project_outputs/model_C_HistGB.joblib
